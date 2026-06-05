@@ -1,0 +1,10 @@
+[theme]
+# Cores principais do TokyoNight
+primaryColor = "#7aa2f7"         # Azul clássico para botões e destaques
+backgroundColor = "#1a1b26"      # Fundo escuro profundo da janela
+secondaryBackgroundColor = "#24283b" # Fundo dos cards, formulários e abas
+textColor = "#a9b1d6"            # Texto principal cinza claro/azuladado
+
+[background]
+# Garante que o modo escuro venha ativado por padrão
+userThemeBackgroundColor = "#1a1b26"
